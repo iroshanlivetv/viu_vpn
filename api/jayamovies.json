@@ -7,12 +7,12 @@
       "fairplay": false
     },
     "wv_license_proxy_url": "https://api.viulk.xyz/api/api/license",
-    "url": "https://api.viulk.xyz/api/m3u/proxy/Ch001",
+    "url": "https://api.viulk.xyz/api/m3u/proxy/Ch095",
     "limit_token": "3,...",
     "isDeeplink": null,
     "vod_type": "INTERNAL",
     "cdn_used": "broadpeakv1",
     "type": "IPTV",
-    "channel_uid": "channelone"
+    "channel_uid": "jayamovies"
   }
 }
