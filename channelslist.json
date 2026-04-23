@@ -57,7 +57,7 @@
     "views": "3 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/api/itn.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/itn.json"
   },
   {
     "id": "Vasantham TV",
@@ -72,7 +72,7 @@
     "views": "3 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/api/vasanthamtv.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/vasanthamtv.json"
   },
   {
     "id": "TV Derana",
@@ -87,7 +87,7 @@
     "views": "2 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/api/tvderana.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/tvderana.json"
   },
   {
     "id": "Swarnawahini",
@@ -102,7 +102,7 @@
     "views": "1 view",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/api/swarnavahini.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/swarnavahini.json"
   },
   {
     "id": "Sirasa TV",
@@ -117,7 +117,7 @@
     "views": "4 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/Viu/refs/heads/main/api/sirasatv.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/sirasatv.json"
   },
   {
     "id": "Shakthi TV",
